@@ -17,7 +17,7 @@ class Solution(object):
                 return
 
             visited.add((r, c))
-
+# upd, down, left, right
             dfs(r + 1, c, visited, heights[r][c])
             dfs(r - 1, c, visited, heights[r][c])
             dfs(r, c + 1, visited, heights[r][c])
