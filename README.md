@@ -60,4 +60,16 @@
 |  |
 | ------- |
 | [0207-course-schedule](https://github.com/Krunalpits/Leetcode/tree/master/0207-course-schedule) |
+## Math
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/Krunalpits/Leetcode/tree/master/0070-climbing-stairs) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/Krunalpits/Leetcode/tree/master/0070-climbing-stairs) |
+## Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/Krunalpits/Leetcode/tree/master/0070-climbing-stairs) |
 <!---LeetCode Topics End-->
