@@ -7,3 +7,5 @@ class Solution(object):
             one = one + two
             two = temp
         return one
+
+        # Use temp to store the result, Fibonacci Series ,,,
