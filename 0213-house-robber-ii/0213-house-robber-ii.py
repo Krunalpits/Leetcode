@@ -1,5 +1,6 @@
 class Solution(object):
     def rob(self, nums):
+        # added some base cases and taking the max
         return max(nums[0], self.helper(nums[1:]), self.helper(nums[:-1]))
 
     def helper(self, nums):
