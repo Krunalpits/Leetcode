@@ -6,6 +6,7 @@
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Krunalpits/Leetcode/tree/master/0005-longest-palindromic-substring) |
 | [0091-decode-ways](https://github.com/Krunalpits/Leetcode/tree/master/0091-decode-ways) |
+| [0139-word-break](https://github.com/Krunalpits/Leetcode/tree/master/0139-word-break) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/Krunalpits/Leetcode/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0647-palindromic-substrings](https://github.com/Krunalpits/Leetcode/tree/master/0647-palindromic-substrings) |
 ## Tree
@@ -40,6 +41,7 @@
 ## Array
 |  |
 | ------- |
+| [0139-word-break](https://github.com/Krunalpits/Leetcode/tree/master/0139-word-break) |
 | [0152-maximum-product-subarray](https://github.com/Krunalpits/Leetcode/tree/master/0152-maximum-product-subarray) |
 | [0198-house-robber](https://github.com/Krunalpits/Leetcode/tree/master/0198-house-robber) |
 | [0200-number-of-islands](https://github.com/Krunalpits/Leetcode/tree/master/0200-number-of-islands) |
@@ -59,6 +61,7 @@
 |  |
 | ------- |
 | [0133-clone-graph](https://github.com/Krunalpits/Leetcode/tree/master/0133-clone-graph) |
+| [0139-word-break](https://github.com/Krunalpits/Leetcode/tree/master/0139-word-break) |
 ## Graph Theory
 |  |
 | ------- |
@@ -78,6 +81,7 @@
 | [0005-longest-palindromic-substring](https://github.com/Krunalpits/Leetcode/tree/master/0005-longest-palindromic-substring) |
 | [0070-climbing-stairs](https://github.com/Krunalpits/Leetcode/tree/master/0070-climbing-stairs) |
 | [0091-decode-ways](https://github.com/Krunalpits/Leetcode/tree/master/0091-decode-ways) |
+| [0139-word-break](https://github.com/Krunalpits/Leetcode/tree/master/0139-word-break) |
 | [0152-maximum-product-subarray](https://github.com/Krunalpits/Leetcode/tree/master/0152-maximum-product-subarray) |
 | [0198-house-robber](https://github.com/Krunalpits/Leetcode/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/Krunalpits/Leetcode/tree/master/0213-house-robber-ii) |
@@ -87,9 +91,14 @@
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/Krunalpits/Leetcode/tree/master/0070-climbing-stairs) |
+| [0139-word-break](https://github.com/Krunalpits/Leetcode/tree/master/0139-word-break) |
 ## Two Pointers
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Krunalpits/Leetcode/tree/master/0005-longest-palindromic-substring) |
 | [0647-palindromic-substrings](https://github.com/Krunalpits/Leetcode/tree/master/0647-palindromic-substrings) |
+## Trie
+|  |
+| ------- |
+| [0139-word-break](https://github.com/Krunalpits/Leetcode/tree/master/0139-word-break) |
 <!---LeetCode Topics End-->
