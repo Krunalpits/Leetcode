@@ -75,11 +75,13 @@
 ## Math
 |  |
 | ------- |
+| [0062-unique-paths](https://github.com/Krunalpits/Leetcode/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/Krunalpits/Leetcode/tree/master/0070-climbing-stairs) |
 ## Dynamic Programming
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Krunalpits/Leetcode/tree/master/0005-longest-palindromic-substring) |
+| [0062-unique-paths](https://github.com/Krunalpits/Leetcode/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/Krunalpits/Leetcode/tree/master/0070-climbing-stairs) |
 | [0091-decode-ways](https://github.com/Krunalpits/Leetcode/tree/master/0091-decode-ways) |
 | [0139-word-break](https://github.com/Krunalpits/Leetcode/tree/master/0139-word-break) |
@@ -107,4 +109,8 @@
 |  |
 | ------- |
 | [0300-longest-increasing-subsequence](https://github.com/Krunalpits/Leetcode/tree/master/0300-longest-increasing-subsequence) |
+## Combinatorics
+|  |
+| ------- |
+| [0062-unique-paths](https://github.com/Krunalpits/Leetcode/tree/master/0062-unique-paths) |
 <!---LeetCode Topics End-->
