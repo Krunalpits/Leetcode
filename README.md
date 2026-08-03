@@ -43,6 +43,7 @@
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/Krunalpits/Leetcode/tree/master/0053-maximum-subarray) |
+| [0055-jump-game](https://github.com/Krunalpits/Leetcode/tree/master/0055-jump-game) |
 | [0139-word-break](https://github.com/Krunalpits/Leetcode/tree/master/0139-word-break) |
 | [0152-maximum-product-subarray](https://github.com/Krunalpits/Leetcode/tree/master/0152-maximum-product-subarray) |
 | [0198-house-robber](https://github.com/Krunalpits/Leetcode/tree/master/0198-house-robber) |
@@ -84,6 +85,7 @@
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Krunalpits/Leetcode/tree/master/0005-longest-palindromic-substring) |
 | [0053-maximum-subarray](https://github.com/Krunalpits/Leetcode/tree/master/0053-maximum-subarray) |
+| [0055-jump-game](https://github.com/Krunalpits/Leetcode/tree/master/0055-jump-game) |
 | [0062-unique-paths](https://github.com/Krunalpits/Leetcode/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/Krunalpits/Leetcode/tree/master/0070-climbing-stairs) |
 | [0091-decode-ways](https://github.com/Krunalpits/Leetcode/tree/master/0091-decode-ways) |
@@ -125,4 +127,8 @@
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/Krunalpits/Leetcode/tree/master/0053-maximum-subarray) |
+## Greedy
+|  |
+| ------- |
+| [0055-jump-game](https://github.com/Krunalpits/Leetcode/tree/master/0055-jump-game) |
 <!---LeetCode Topics End-->
