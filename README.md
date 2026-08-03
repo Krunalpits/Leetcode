@@ -9,6 +9,7 @@
 | [0139-word-break](https://github.com/Krunalpits/Leetcode/tree/master/0139-word-break) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/Krunalpits/Leetcode/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0647-palindromic-substrings](https://github.com/Krunalpits/Leetcode/tree/master/0647-palindromic-substrings) |
+| [1143-longest-common-subsequence](https://github.com/Krunalpits/Leetcode/tree/master/1143-longest-common-subsequence) |
 ## Tree
 |  |
 | ------- |
@@ -91,6 +92,7 @@
 | [0300-longest-increasing-subsequence](https://github.com/Krunalpits/Leetcode/tree/master/0300-longest-increasing-subsequence) |
 | [0322-coin-change](https://github.com/Krunalpits/Leetcode/tree/master/0322-coin-change) |
 | [0647-palindromic-substrings](https://github.com/Krunalpits/Leetcode/tree/master/0647-palindromic-substrings) |
+| [1143-longest-common-subsequence](https://github.com/Krunalpits/Leetcode/tree/master/1143-longest-common-subsequence) |
 ## Memoization
 |  |
 | ------- |
@@ -113,4 +115,8 @@
 |  |
 | ------- |
 | [0062-unique-paths](https://github.com/Krunalpits/Leetcode/tree/master/0062-unique-paths) |
+## Longest Common Subsequence
+|  |
+| ------- |
+| [1143-longest-common-subsequence](https://github.com/Krunalpits/Leetcode/tree/master/1143-longest-common-subsequence) |
 <!---LeetCode Topics End-->
