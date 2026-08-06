@@ -42,6 +42,7 @@
 ## Array
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/Krunalpits/Leetcode/tree/master/0048-rotate-image) |
 | [0053-maximum-subarray](https://github.com/Krunalpits/Leetcode/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/Krunalpits/Leetcode/tree/master/0055-jump-game) |
 | [0056-merge-intervals](https://github.com/Krunalpits/Leetcode/tree/master/0056-merge-intervals) |
@@ -62,6 +63,7 @@
 ## Matrix
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/Krunalpits/Leetcode/tree/master/0048-rotate-image) |
 | [0200-number-of-islands](https://github.com/Krunalpits/Leetcode/tree/master/0200-number-of-islands) |
 | [0417-pacific-atlantic-water-flow](https://github.com/Krunalpits/Leetcode/tree/master/0417-pacific-atlantic-water-flow) |
 ## Hash Table
@@ -81,6 +83,7 @@
 ## Math
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/Krunalpits/Leetcode/tree/master/0048-rotate-image) |
 | [0062-unique-paths](https://github.com/Krunalpits/Leetcode/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/Krunalpits/Leetcode/tree/master/0070-climbing-stairs) |
 ## Dynamic Programming
