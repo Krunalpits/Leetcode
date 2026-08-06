@@ -54,6 +54,7 @@
 | [0300-longest-increasing-subsequence](https://github.com/Krunalpits/Leetcode/tree/master/0300-longest-increasing-subsequence) |
 | [0322-coin-change](https://github.com/Krunalpits/Leetcode/tree/master/0322-coin-change) |
 | [0417-pacific-atlantic-water-flow](https://github.com/Krunalpits/Leetcode/tree/master/0417-pacific-atlantic-water-flow) |
+| [0435-non-overlapping-intervals](https://github.com/Krunalpits/Leetcode/tree/master/0435-non-overlapping-intervals) |
 ## Union-Find
 |  |
 | ------- |
@@ -97,6 +98,7 @@
 | [0213-house-robber-ii](https://github.com/Krunalpits/Leetcode/tree/master/0213-house-robber-ii) |
 | [0300-longest-increasing-subsequence](https://github.com/Krunalpits/Leetcode/tree/master/0300-longest-increasing-subsequence) |
 | [0322-coin-change](https://github.com/Krunalpits/Leetcode/tree/master/0322-coin-change) |
+| [0435-non-overlapping-intervals](https://github.com/Krunalpits/Leetcode/tree/master/0435-non-overlapping-intervals) |
 | [0647-palindromic-substrings](https://github.com/Krunalpits/Leetcode/tree/master/0647-palindromic-substrings) |
 | [1143-longest-common-subsequence](https://github.com/Krunalpits/Leetcode/tree/master/1143-longest-common-subsequence) |
 ## Memoization
@@ -133,10 +135,12 @@
 |  |
 | ------- |
 | [0055-jump-game](https://github.com/Krunalpits/Leetcode/tree/master/0055-jump-game) |
+| [0435-non-overlapping-intervals](https://github.com/Krunalpits/Leetcode/tree/master/0435-non-overlapping-intervals) |
 ## Sorting
 |  |
 | ------- |
 | [0056-merge-intervals](https://github.com/Krunalpits/Leetcode/tree/master/0056-merge-intervals) |
+| [0435-non-overlapping-intervals](https://github.com/Krunalpits/Leetcode/tree/master/0435-non-overlapping-intervals) |
 ## Quicksort
 |  |
 | ------- |
