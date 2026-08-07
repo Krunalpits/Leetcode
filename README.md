@@ -44,6 +44,7 @@
 | ------- |
 | [0048-rotate-image](https://github.com/Krunalpits/Leetcode/tree/master/0048-rotate-image) |
 | [0053-maximum-subarray](https://github.com/Krunalpits/Leetcode/tree/master/0053-maximum-subarray) |
+| [0054-spiral-matrix](https://github.com/Krunalpits/Leetcode/tree/master/0054-spiral-matrix) |
 | [0055-jump-game](https://github.com/Krunalpits/Leetcode/tree/master/0055-jump-game) |
 | [0056-merge-intervals](https://github.com/Krunalpits/Leetcode/tree/master/0056-merge-intervals) |
 | [0057-insert-interval](https://github.com/Krunalpits/Leetcode/tree/master/0057-insert-interval) |
@@ -64,6 +65,7 @@
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/Krunalpits/Leetcode/tree/master/0048-rotate-image) |
+| [0054-spiral-matrix](https://github.com/Krunalpits/Leetcode/tree/master/0054-spiral-matrix) |
 | [0200-number-of-islands](https://github.com/Krunalpits/Leetcode/tree/master/0200-number-of-islands) |
 | [0417-pacific-atlantic-water-flow](https://github.com/Krunalpits/Leetcode/tree/master/0417-pacific-atlantic-water-flow) |
 ## Hash Table
@@ -148,4 +150,8 @@
 |  |
 | ------- |
 | [0056-merge-intervals](https://github.com/Krunalpits/Leetcode/tree/master/0056-merge-intervals) |
+## Simulation
+|  |
+| ------- |
+| [0054-spiral-matrix](https://github.com/Krunalpits/Leetcode/tree/master/0054-spiral-matrix) |
 <!---LeetCode Topics End-->
