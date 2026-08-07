@@ -48,6 +48,7 @@
 | [0055-jump-game](https://github.com/Krunalpits/Leetcode/tree/master/0055-jump-game) |
 | [0056-merge-intervals](https://github.com/Krunalpits/Leetcode/tree/master/0056-merge-intervals) |
 | [0057-insert-interval](https://github.com/Krunalpits/Leetcode/tree/master/0057-insert-interval) |
+| [0073-set-matrix-zeroes](https://github.com/Krunalpits/Leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0139-word-break](https://github.com/Krunalpits/Leetcode/tree/master/0139-word-break) |
 | [0152-maximum-product-subarray](https://github.com/Krunalpits/Leetcode/tree/master/0152-maximum-product-subarray) |
 | [0198-house-robber](https://github.com/Krunalpits/Leetcode/tree/master/0198-house-robber) |
@@ -66,11 +67,13 @@
 | ------- |
 | [0048-rotate-image](https://github.com/Krunalpits/Leetcode/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/Krunalpits/Leetcode/tree/master/0054-spiral-matrix) |
+| [0073-set-matrix-zeroes](https://github.com/Krunalpits/Leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0200-number-of-islands](https://github.com/Krunalpits/Leetcode/tree/master/0200-number-of-islands) |
 | [0417-pacific-atlantic-water-flow](https://github.com/Krunalpits/Leetcode/tree/master/0417-pacific-atlantic-water-flow) |
 ## Hash Table
 |  |
 | ------- |
+| [0073-set-matrix-zeroes](https://github.com/Krunalpits/Leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0133-clone-graph](https://github.com/Krunalpits/Leetcode/tree/master/0133-clone-graph) |
 | [0139-word-break](https://github.com/Krunalpits/Leetcode/tree/master/0139-word-break) |
 ## Graph Theory
