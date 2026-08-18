@@ -54,6 +54,7 @@
 | [0152-maximum-product-subarray](https://github.com/Krunalpits/Leetcode/tree/master/0152-maximum-product-subarray) |
 | [0198-house-robber](https://github.com/Krunalpits/Leetcode/tree/master/0198-house-robber) |
 | [0200-number-of-islands](https://github.com/Krunalpits/Leetcode/tree/master/0200-number-of-islands) |
+| [0209-minimum-size-subarray-sum](https://github.com/Krunalpits/Leetcode/tree/master/0209-minimum-size-subarray-sum) |
 | [0213-house-robber-ii](https://github.com/Krunalpits/Leetcode/tree/master/0213-house-robber-ii) |
 | [0300-longest-increasing-subsequence](https://github.com/Krunalpits/Leetcode/tree/master/0300-longest-increasing-subsequence) |
 | [0322-coin-change](https://github.com/Krunalpits/Leetcode/tree/master/0322-coin-change) |
@@ -131,6 +132,7 @@
 ## Binary Search
 |  |
 | ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/Krunalpits/Leetcode/tree/master/0209-minimum-size-subarray-sum) |
 | [0300-longest-increasing-subsequence](https://github.com/Krunalpits/Leetcode/tree/master/0300-longest-increasing-subsequence) |
 | [1004-max-consecutive-ones-iii](https://github.com/Krunalpits/Leetcode/tree/master/1004-max-consecutive-ones-iii) |
 ## Combinatorics
@@ -171,11 +173,13 @@
 ## Sliding Window
 |  |
 | ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/Krunalpits/Leetcode/tree/master/0209-minimum-size-subarray-sum) |
 | [0424-longest-repeating-character-replacement](https://github.com/Krunalpits/Leetcode/tree/master/0424-longest-repeating-character-replacement) |
 | [0904-fruit-into-baskets](https://github.com/Krunalpits/Leetcode/tree/master/0904-fruit-into-baskets) |
 | [1004-max-consecutive-ones-iii](https://github.com/Krunalpits/Leetcode/tree/master/1004-max-consecutive-ones-iii) |
 ## Prefix Sum
 |  |
 | ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/Krunalpits/Leetcode/tree/master/0209-minimum-size-subarray-sum) |
 | [1004-max-consecutive-ones-iii](https://github.com/Krunalpits/Leetcode/tree/master/1004-max-consecutive-ones-iii) |
 <!---LeetCode Topics End-->
