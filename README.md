@@ -60,6 +60,7 @@
 | [0417-pacific-atlantic-water-flow](https://github.com/Krunalpits/Leetcode/tree/master/0417-pacific-atlantic-water-flow) |
 | [0435-non-overlapping-intervals](https://github.com/Krunalpits/Leetcode/tree/master/0435-non-overlapping-intervals) |
 | [0904-fruit-into-baskets](https://github.com/Krunalpits/Leetcode/tree/master/0904-fruit-into-baskets) |
+| [1004-max-consecutive-ones-iii](https://github.com/Krunalpits/Leetcode/tree/master/1004-max-consecutive-ones-iii) |
 ## Union-Find
 |  |
 | ------- |
@@ -131,6 +132,7 @@
 |  |
 | ------- |
 | [0300-longest-increasing-subsequence](https://github.com/Krunalpits/Leetcode/tree/master/0300-longest-increasing-subsequence) |
+| [1004-max-consecutive-ones-iii](https://github.com/Krunalpits/Leetcode/tree/master/1004-max-consecutive-ones-iii) |
 ## Combinatorics
 |  |
 | ------- |
@@ -171,4 +173,9 @@
 | ------- |
 | [0424-longest-repeating-character-replacement](https://github.com/Krunalpits/Leetcode/tree/master/0424-longest-repeating-character-replacement) |
 | [0904-fruit-into-baskets](https://github.com/Krunalpits/Leetcode/tree/master/0904-fruit-into-baskets) |
+| [1004-max-consecutive-ones-iii](https://github.com/Krunalpits/Leetcode/tree/master/1004-max-consecutive-ones-iii) |
+## Prefix Sum
+|  |
+| ------- |
+| [1004-max-consecutive-ones-iii](https://github.com/Krunalpits/Leetcode/tree/master/1004-max-consecutive-ones-iii) |
 <!---LeetCode Topics End-->
