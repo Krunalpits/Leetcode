@@ -62,6 +62,7 @@
 | [0435-non-overlapping-intervals](https://github.com/Krunalpits/Leetcode/tree/master/0435-non-overlapping-intervals) |
 | [0904-fruit-into-baskets](https://github.com/Krunalpits/Leetcode/tree/master/0904-fruit-into-baskets) |
 | [1004-max-consecutive-ones-iii](https://github.com/Krunalpits/Leetcode/tree/master/1004-max-consecutive-ones-iii) |
+| [1838-frequency-of-the-most-frequent-element](https://github.com/Krunalpits/Leetcode/tree/master/1838-frequency-of-the-most-frequent-element) |
 ## Union-Find
 |  |
 | ------- |
@@ -135,6 +136,7 @@
 | [0209-minimum-size-subarray-sum](https://github.com/Krunalpits/Leetcode/tree/master/0209-minimum-size-subarray-sum) |
 | [0300-longest-increasing-subsequence](https://github.com/Krunalpits/Leetcode/tree/master/0300-longest-increasing-subsequence) |
 | [1004-max-consecutive-ones-iii](https://github.com/Krunalpits/Leetcode/tree/master/1004-max-consecutive-ones-iii) |
+| [1838-frequency-of-the-most-frequent-element](https://github.com/Krunalpits/Leetcode/tree/master/1838-frequency-of-the-most-frequent-element) |
 ## Combinatorics
 |  |
 | ------- |
@@ -153,11 +155,13 @@
 | ------- |
 | [0055-jump-game](https://github.com/Krunalpits/Leetcode/tree/master/0055-jump-game) |
 | [0435-non-overlapping-intervals](https://github.com/Krunalpits/Leetcode/tree/master/0435-non-overlapping-intervals) |
+| [1838-frequency-of-the-most-frequent-element](https://github.com/Krunalpits/Leetcode/tree/master/1838-frequency-of-the-most-frequent-element) |
 ## Sorting
 |  |
 | ------- |
 | [0056-merge-intervals](https://github.com/Krunalpits/Leetcode/tree/master/0056-merge-intervals) |
 | [0435-non-overlapping-intervals](https://github.com/Krunalpits/Leetcode/tree/master/0435-non-overlapping-intervals) |
+| [1838-frequency-of-the-most-frequent-element](https://github.com/Krunalpits/Leetcode/tree/master/1838-frequency-of-the-most-frequent-element) |
 ## Quicksort
 |  |
 | ------- |
@@ -177,9 +181,11 @@
 | [0424-longest-repeating-character-replacement](https://github.com/Krunalpits/Leetcode/tree/master/0424-longest-repeating-character-replacement) |
 | [0904-fruit-into-baskets](https://github.com/Krunalpits/Leetcode/tree/master/0904-fruit-into-baskets) |
 | [1004-max-consecutive-ones-iii](https://github.com/Krunalpits/Leetcode/tree/master/1004-max-consecutive-ones-iii) |
+| [1838-frequency-of-the-most-frequent-element](https://github.com/Krunalpits/Leetcode/tree/master/1838-frequency-of-the-most-frequent-element) |
 ## Prefix Sum
 |  |
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/Krunalpits/Leetcode/tree/master/0209-minimum-size-subarray-sum) |
 | [1004-max-consecutive-ones-iii](https://github.com/Krunalpits/Leetcode/tree/master/1004-max-consecutive-ones-iii) |
+| [1838-frequency-of-the-most-frequent-element](https://github.com/Krunalpits/Leetcode/tree/master/1838-frequency-of-the-most-frequent-element) |
 <!---LeetCode Topics End-->
