@@ -62,6 +62,7 @@
 | [0417-pacific-atlantic-water-flow](https://github.com/Krunalpits/Leetcode/tree/master/0417-pacific-atlantic-water-flow) |
 | [0435-non-overlapping-intervals](https://github.com/Krunalpits/Leetcode/tree/master/0435-non-overlapping-intervals) |
 | [0904-fruit-into-baskets](https://github.com/Krunalpits/Leetcode/tree/master/0904-fruit-into-baskets) |
+| [0992-subarrays-with-k-different-integers](https://github.com/Krunalpits/Leetcode/tree/master/0992-subarrays-with-k-different-integers) |
 | [1004-max-consecutive-ones-iii](https://github.com/Krunalpits/Leetcode/tree/master/1004-max-consecutive-ones-iii) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/Krunalpits/Leetcode/tree/master/1838-frequency-of-the-most-frequent-element) |
 ## Union-Find
@@ -84,6 +85,7 @@
 | [0139-word-break](https://github.com/Krunalpits/Leetcode/tree/master/0139-word-break) |
 | [0424-longest-repeating-character-replacement](https://github.com/Krunalpits/Leetcode/tree/master/0424-longest-repeating-character-replacement) |
 | [0904-fruit-into-baskets](https://github.com/Krunalpits/Leetcode/tree/master/0904-fruit-into-baskets) |
+| [0992-subarrays-with-k-different-integers](https://github.com/Krunalpits/Leetcode/tree/master/0992-subarrays-with-k-different-integers) |
 ## Graph Theory
 |  |
 | ------- |
@@ -182,6 +184,7 @@
 | [0239-sliding-window-maximum](https://github.com/Krunalpits/Leetcode/tree/master/0239-sliding-window-maximum) |
 | [0424-longest-repeating-character-replacement](https://github.com/Krunalpits/Leetcode/tree/master/0424-longest-repeating-character-replacement) |
 | [0904-fruit-into-baskets](https://github.com/Krunalpits/Leetcode/tree/master/0904-fruit-into-baskets) |
+| [0992-subarrays-with-k-different-integers](https://github.com/Krunalpits/Leetcode/tree/master/0992-subarrays-with-k-different-integers) |
 | [1004-max-consecutive-ones-iii](https://github.com/Krunalpits/Leetcode/tree/master/1004-max-consecutive-ones-iii) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/Krunalpits/Leetcode/tree/master/1838-frequency-of-the-most-frequent-element) |
 ## Prefix Sum
@@ -206,4 +209,8 @@
 |  |
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/Krunalpits/Leetcode/tree/master/0239-sliding-window-maximum) |
+## Counting
+|  |
+| ------- |
+| [0992-subarrays-with-k-different-integers](https://github.com/Krunalpits/Leetcode/tree/master/0992-subarrays-with-k-different-integers) |
 <!---LeetCode Topics End-->
