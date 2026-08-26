@@ -43,6 +43,7 @@
 ## Array
 |  |
 | ------- |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/Krunalpits/Leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0048-rotate-image](https://github.com/Krunalpits/Leetcode/tree/master/0048-rotate-image) |
 | [0053-maximum-subarray](https://github.com/Krunalpits/Leetcode/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/Krunalpits/Leetcode/tree/master/0054-spiral-matrix) |
@@ -128,6 +129,7 @@
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Krunalpits/Leetcode/tree/master/0005-longest-palindromic-substring) |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/Krunalpits/Leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0647-palindromic-substrings](https://github.com/Krunalpits/Leetcode/tree/master/0647-palindromic-substrings) |
 ## Trie
 |  |
