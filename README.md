@@ -62,6 +62,7 @@
 | [0322-coin-change](https://github.com/Krunalpits/Leetcode/tree/master/0322-coin-change) |
 | [0417-pacific-atlantic-water-flow](https://github.com/Krunalpits/Leetcode/tree/master/0417-pacific-atlantic-water-flow) |
 | [0435-non-overlapping-intervals](https://github.com/Krunalpits/Leetcode/tree/master/0435-non-overlapping-intervals) |
+| [0881-boats-to-save-people](https://github.com/Krunalpits/Leetcode/tree/master/0881-boats-to-save-people) |
 | [0904-fruit-into-baskets](https://github.com/Krunalpits/Leetcode/tree/master/0904-fruit-into-baskets) |
 | [0992-subarrays-with-k-different-integers](https://github.com/Krunalpits/Leetcode/tree/master/0992-subarrays-with-k-different-integers) |
 | [1004-max-consecutive-ones-iii](https://github.com/Krunalpits/Leetcode/tree/master/1004-max-consecutive-ones-iii) |
@@ -131,6 +132,7 @@
 | [0005-longest-palindromic-substring](https://github.com/Krunalpits/Leetcode/tree/master/0005-longest-palindromic-substring) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Krunalpits/Leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0647-palindromic-substrings](https://github.com/Krunalpits/Leetcode/tree/master/0647-palindromic-substrings) |
+| [0881-boats-to-save-people](https://github.com/Krunalpits/Leetcode/tree/master/0881-boats-to-save-people) |
 ## Trie
 |  |
 | ------- |
@@ -160,12 +162,14 @@
 | ------- |
 | [0055-jump-game](https://github.com/Krunalpits/Leetcode/tree/master/0055-jump-game) |
 | [0435-non-overlapping-intervals](https://github.com/Krunalpits/Leetcode/tree/master/0435-non-overlapping-intervals) |
+| [0881-boats-to-save-people](https://github.com/Krunalpits/Leetcode/tree/master/0881-boats-to-save-people) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/Krunalpits/Leetcode/tree/master/1838-frequency-of-the-most-frequent-element) |
 ## Sorting
 |  |
 | ------- |
 | [0056-merge-intervals](https://github.com/Krunalpits/Leetcode/tree/master/0056-merge-intervals) |
 | [0435-non-overlapping-intervals](https://github.com/Krunalpits/Leetcode/tree/master/0435-non-overlapping-intervals) |
+| [0881-boats-to-save-people](https://github.com/Krunalpits/Leetcode/tree/master/0881-boats-to-save-people) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/Krunalpits/Leetcode/tree/master/1838-frequency-of-the-most-frequent-element) |
 ## Quicksort
 |  |
@@ -215,4 +219,8 @@
 |  |
 | ------- |
 | [0992-subarrays-with-k-different-integers](https://github.com/Krunalpits/Leetcode/tree/master/0992-subarrays-with-k-different-integers) |
+## Timsort
+|  |
+| ------- |
+| [0881-boats-to-save-people](https://github.com/Krunalpits/Leetcode/tree/master/0881-boats-to-save-people) |
 <!---LeetCode Topics End-->
