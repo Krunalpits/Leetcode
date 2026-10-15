@@ -6,6 +6,7 @@
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Krunalpits/Leetcode/tree/master/0005-longest-palindromic-substring) |
 | [0091-decode-ways](https://github.com/Krunalpits/Leetcode/tree/master/0091-decode-ways) |
+| [0125-valid-palindrome](https://github.com/Krunalpits/Leetcode/tree/master/0125-valid-palindrome) |
 | [0139-word-break](https://github.com/Krunalpits/Leetcode/tree/master/0139-word-break) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/Krunalpits/Leetcode/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0424-longest-repeating-character-replacement](https://github.com/Krunalpits/Leetcode/tree/master/0424-longest-repeating-character-replacement) |
@@ -140,6 +141,7 @@
 | [0005-longest-palindromic-substring](https://github.com/Krunalpits/Leetcode/tree/master/0005-longest-palindromic-substring) |
 | [0018-4sum](https://github.com/Krunalpits/Leetcode/tree/master/0018-4sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Krunalpits/Leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0125-valid-palindrome](https://github.com/Krunalpits/Leetcode/tree/master/0125-valid-palindrome) |
 | [0647-palindromic-substrings](https://github.com/Krunalpits/Leetcode/tree/master/0647-palindromic-substrings) |
 | [0881-boats-to-save-people](https://github.com/Krunalpits/Leetcode/tree/master/0881-boats-to-save-people) |
 ## Trie
