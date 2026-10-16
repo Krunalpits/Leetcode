@@ -57,6 +57,7 @@
 | [0128-longest-consecutive-sequence](https://github.com/Krunalpits/Leetcode/tree/master/0128-longest-consecutive-sequence) |
 | [0139-word-break](https://github.com/Krunalpits/Leetcode/tree/master/0139-word-break) |
 | [0152-maximum-product-subarray](https://github.com/Krunalpits/Leetcode/tree/master/0152-maximum-product-subarray) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/Krunalpits/Leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0198-house-robber](https://github.com/Krunalpits/Leetcode/tree/master/0198-house-robber) |
 | [0200-number-of-islands](https://github.com/Krunalpits/Leetcode/tree/master/0200-number-of-islands) |
 | [0209-minimum-size-subarray-sum](https://github.com/Krunalpits/Leetcode/tree/master/0209-minimum-size-subarray-sum) |
@@ -142,6 +143,7 @@
 | [0018-4sum](https://github.com/Krunalpits/Leetcode/tree/master/0018-4sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Krunalpits/Leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0125-valid-palindrome](https://github.com/Krunalpits/Leetcode/tree/master/0125-valid-palindrome) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/Krunalpits/Leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0647-palindromic-substrings](https://github.com/Krunalpits/Leetcode/tree/master/0647-palindromic-substrings) |
 | [0881-boats-to-save-people](https://github.com/Krunalpits/Leetcode/tree/master/0881-boats-to-save-people) |
 ## Trie
@@ -151,6 +153,7 @@
 ## Binary Search
 |  |
 | ------- |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/Krunalpits/Leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0209-minimum-size-subarray-sum](https://github.com/Krunalpits/Leetcode/tree/master/0209-minimum-size-subarray-sum) |
 | [0300-longest-increasing-subsequence](https://github.com/Krunalpits/Leetcode/tree/master/0300-longest-increasing-subsequence) |
 | [1004-max-consecutive-ones-iii](https://github.com/Krunalpits/Leetcode/tree/master/1004-max-consecutive-ones-iii) |
